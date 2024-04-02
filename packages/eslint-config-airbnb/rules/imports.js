@@ -48,6 +48,7 @@ module.exports = {
           '**/vite.config.*(c|m)js',
           // Vitest
           '**/vitest.config.*(c|m)js',
+          '**/vitest.setup.*(c|m)js',
           // Cypress
           '**/cypress.config.*(c|m)js',
           '**/cypress/support/**',
